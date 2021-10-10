@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/nyasha/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/nyasha/catkin_ws/src/ddynamic_reconfigure/include/**",
+        "/home/nyasha/catkin_ws/src/demo_pkg/include/**",
+        "/home/nyasha/catkin_ws/src/demo_robot_description_pkg/include/**",
+        "/home/nyasha/catkin_ws/src/greenbot/include/**",
+        "/home/nyasha/catkin_ws/src/greenbot_simulation/include/**",
+        "/home/nyasha/catkin_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/nyasha/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/nyasha/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/nyasha/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
