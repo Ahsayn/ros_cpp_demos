@@ -444,10 +444,10 @@ This link is the base of the arm in which arm is placed
       <limit effort="100" lower="0" upper="0.03" velocity="1.0"/>
 
 
-      <safety_controller k_position="20"
+      <!-- <safety_controller k_position="20"
                          k_velocity="20"
                          soft_lower_limit="${-0.15 }"
-                         soft_upper_limit="${ 0.0 }"/>
+                         soft_upper_limit="${ 0.0 }"/> -->
 
 
     <dynamics damping="50" friction="1"/>
