@@ -35,14 +35,14 @@
           <!--
           <box size="0.06 0.1 0.03" />
         	-->
-					<mesh filename="package://mastering_ros_robot_description_pkg/meshes/sensors/xtion_pro_live/xtion_pro_live.stl"/>
+					<mesh filename="package://demo_robot_description_pkg/meshes/sensors/xtion_pro_live/xtion_pro_live.stl"/>
         </geometry>
         <material name="DarkGrey"/>
       </visual>
       
       <collision>
       <geometry>
-          <mesh filename="package://mastering_ros_robot_description_pkg/meshes/sensors/xtion_pro_live/xtion_pro_live.dae"/>
+          <mesh filename="package://demo_robot_description_pkg/meshes/sensors/xtion_pro_live/xtion_pro_live.dae"/>
       </geometry>
       </collision>
     </link>
